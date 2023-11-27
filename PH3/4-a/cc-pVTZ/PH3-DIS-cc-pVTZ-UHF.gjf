@@ -1,0 +1,15 @@
+%chk=PH3-DIS-cc-pVTZ-uhf.chk
+%mem=6MW
+%nproc=1
+# scan uhf/cc-pVTZ guess=mix
+
+PH3-DIS-cc-pVTZ-uhf
+
+0 1
+ P              
+ H                  1    B1
+ H                  1    B1    2   93.30
+ H                  1    B1    3   93.30    2  -93.30
+
+   B1             3.5 25 -0.1
+

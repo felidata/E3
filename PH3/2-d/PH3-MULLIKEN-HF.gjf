@@ -1,0 +1,13 @@
+%chk=PH3-MLLIKEN-HF.chk
+%mem=6MW
+%nproc=1
+# hf/3-21g pop=full freq
+
+PH3-MULLIKEN-RHF
+
+0 1
+ P1	0.0000	0.0000	0.0000
+H2	0.0000	-1.1932	-0.7717
+H3	1.0333	0.5966	-0.7717
+H4	-1.0333	0.5966	-0.7717
+

@@ -1,0 +1,15 @@
+%chk=PH3-DIS-6-31g-cisd.chk
+%mem=6MW
+%nproc=1
+# scan rcisd/6-31g guess=mix
+
+PH3-DIS-6-31g-cisd
+
+0 1
+ P              
+ H                  1    B1
+ H                  1    B1    2   93.30
+ H                  1    B1    3   93.30    2  -93.30
+
+   B1             2.5 17 -0.1
+
